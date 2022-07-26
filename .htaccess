@@ -1,0 +1,7 @@
+
+php_flag output_buffering on
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-f 
+RewriteCond %{SCRIPT_FILENAME} !-d 
+RewriteRule ^(.*)$ https://vacilouviroucronica.com/index.php?url=$1
+
