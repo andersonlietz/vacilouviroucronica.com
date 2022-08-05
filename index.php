@@ -54,6 +54,17 @@
               <div id="geral"></div>
               
               <div class="amostra">
+                          <img src="imagens/a-gangue-da-telha.jpg" class="imagem"/> 
+                          <h2>A Gangue da Telha</h2>
+                          <div class="texto">
+                          <span>
+                            Em uma região desconhecida, a gangue da telha colocou medo, assustou e apavorou os moradores. 
+                          
+                    </span></div>
+                      <a href="a-gangue-da-telha.php"><button>Ler Crônica</button></a>
+                       </div><!--fim da amostra-->
+
+              <div class="amostra">
                           <img src="imagens/coisas-de-cachaco.jpg" class="imagem"/> 
                           <h2>Coisas de Cachaço</h2>
                           <div class="texto">
@@ -103,17 +114,6 @@
                     </span></div>
                       <a href="um-caso-de-engraxate.php"><button>Ler Crônica</button></a>
                        </div><!--fim da amostra-->
-
-              <div class="amostra">
-                          <img src="imagens/as-cronicas.jpg" class="imagem"/> 
-                          <h2>As Crônicas</h2>
-                          <div class="texto">
-                          <span>Eu me encantei pelas crônicas a um tempo atrás, provavelmente você já percebeu. 
-  Para mim, a crônica passou a ser uma literatura singela, sublime, delicada.
-                          
-                    </span></div>
-                      <a href="as-cronicas.php"><button>Ler Crônica</button></a>
-                       </div><!--fim da amostra-->
                       
 <!--div class="amostra">
 <a href="pagina2.php">Outras...</a>
@@ -127,6 +127,7 @@
                         <nav>
                        
     <!--<ul><a href=""></a></ul>-->
+    <ul><a href="as-cronicas.php">As Crônicas</a></ul>
     <ul><a href="garotos-machoes.php">Garotos Machões</a></ul>
     <ul><a href="visoes-odontologicas.php">Visões Odontológicas</a></ul>
     <ul><a href="o-mais-humilde.php">O mais humilde</a></ul>

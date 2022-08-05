@@ -565,7 +565,7 @@ text-align: center;
     color:#000;
     text-decoration:underline;
     background-color:  #d1d6d6;
-    margin:10px;
+    margin:15px;
 }
  .copy{
     padding:25px;
@@ -601,6 +601,10 @@ font-size: 20px;
 .menu ul li{
         width:100%;
         float:none;
+    }
+
+    .menu a{
+        font-size:23px;
     }
     label[for="bt_menu"]{
         display:block;
@@ -641,6 +645,9 @@ menu{
     background-color:rgb(209, 214, 214);
 display:flex;
 flex-direction:column;
+}
+#menu a{
+    font-size:23px;
 }
 /*Cabeçalho*/
 header {
@@ -764,6 +771,14 @@ details summary{
         border-radius: 5px;
         text-decoration: none;
     }
+   }
+   .linksrodape{
+    font-size:19px;
+    margin-top:10px;
+
+   }
+   .linksrodape ul li{
+    margin-top:25px;
    }
 
    @media only screen and ( max-width:476px){
