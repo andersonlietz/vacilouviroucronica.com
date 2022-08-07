@@ -36,7 +36,7 @@
           <label for="bt_menu">&#9776;</label>
           <nav class="menu">
             <ul>
-              <li><a href="area-privada.php">Biblioteca</a></li>
+              <li><a href="#geral">Crônicas</a></li>
               <li><a href="#contato">Contato</a></li>
               <li><a href="#sobre">Sobre</a></li>
             </ul>
@@ -53,6 +53,18 @@
             <section class="amostras">
               <div id="geral"></div>
               
+              <div class="amostra">
+                          <img src="imagens/vendedor-de-cacarecos.jpg" class="imagem"/> 
+                          <h2>Vendedor de Cacarecos</h2>
+                          <div class="texto">
+                          <span>
+                          Alguns dias atrás tive um susto quando vi um comunicado de falecimento no facebook.
+                          Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeiro de Abril, 
+                          mesmo sendo início de Agosto.
+                    </span></div>
+                      <a href="vendedor-de-cacarecos.php"><button>Ler Crônica</button></a>
+                       </div><!--fim da amostra-->
+
               <div class="amostra">
                           <img src="imagens/a-gangue-da-telha.jpg" class="imagem"/> 
                           <h2>A Gangue da Telha</h2>

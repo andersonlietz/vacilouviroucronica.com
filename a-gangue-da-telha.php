@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"content="">
+    <meta name="description"content="No Uber o homem pensava em como iria aproveitar sua folga. Planejava chegar em casa, 
+    abrir uma garrafa de vinho ou uma latinha de cerveja,
+   talvez coar café. Estava farto de viajar, e o lugar em que mais desejava passar alguns dias era em casa. ">
         <meta property="og:site_name" content="Vacilou, virou Crônica! | O que vacila, vira Crônica!" />
     <meta property="og:url" content="https://vacilouviroucronica.com/a-gangue-da-telha.php" />
     <meta name="robots" content="index,follow">
@@ -139,9 +141,9 @@
 <ul>
 <a rel="dofollow" href="coisas-de-cachaco.php"> ⬅ Coisas de Cachaço</a>
     </ul>
-    <!--ul>
-    <a rel="dofollow" href="o-mais-humilde.php"> O mais humilde ➡ </a>
-  </ul-->
+    <ul>
+    <a rel="dofollow" href="vendedor-de-cacarecos.php"> Vendedor de Cacarecos ➡ </a>
+  </ul>
 </nav>
 </section>
 <?php
