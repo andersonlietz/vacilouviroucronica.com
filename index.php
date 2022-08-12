@@ -54,6 +54,17 @@
               <div id="geral"></div>
               
               <div class="amostra">
+                          <img src="imagens/vendedor-de-cacarecos.jpg" class="imagem"/> 
+                          <h2>Vendedor de Cacarecos</h2>
+                          <div class="texto">
+                          <span>
+                          Alguns dias atrás tive um susto quando vi um comunicado de falecimento no facebook.
+                          Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeiro de Abril, mesmo sendo início de Agosto.  
+                    </span></div>
+                      <a href="vendedor-de-cacarecos.php"><button>Ler Crônica</button></a>
+                       </div><!--fim da amostra-->
+
+              <div class="amostra">
                           <img src="imagens/a-gangue-da-telha.jpg" class="imagem"/> 
                           <h2>A Gangue da Telha</h2>
                           <div class="texto">
@@ -100,19 +111,6 @@
     Do moinho ainda restam o grande galpão, e os suportes onde ficava presa a roda d'água.
                     </span></div>
                       <a href="represas-e-moinhos.php"><button>Ler Crônica</button></a>
-                       </div><!--fim da amostra-->
-                       
-                       
-                       <div class="amostra">
-                          <img src="imagens/um-caso-de-engraxate.jpg" class="imagem"/> 
-                          <h2>Um caso de Engraxate</h2>
-                          <div class="texto">
-                          <span>Era um casal feliz, mas ela passou a ter motivos para desconfiar. 
-    Sabia dos gastos, o que entrava e saía, 
-    mas ao perguntar sobre uma certa demora dele após o trabalho e um gasto de dinheiro,
-     ele afirmava que  havia engraxado os sapatos.
-                    </span></div>
-                      <a href="um-caso-de-engraxate.php"><button>Ler Crônica</button></a>
                        </div><!--fim da amostra-->
                       
 <!--div class="amostra">
