@@ -59,8 +59,12 @@
                           <div class="texto">
                           <span>
                           Alguns dias atrás tive um susto quando vi um comunicado de falecimento no facebook.
+<<<<<<< HEAD
                           Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeiro de Abril, 
                           mesmo sendo início de Agosto.
+=======
+                          Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeiro de Abril, mesmo sendo início de Agosto.  
+>>>>>>> new
                     </span></div>
                       <a href="vendedor-de-cacarecos.php"><button>Ler Crônica</button></a>
                        </div><!--fim da amostra-->
@@ -113,19 +117,6 @@
                     </span></div>
                       <a href="represas-e-moinhos.php"><button>Ler Crônica</button></a>
                        </div><!--fim da amostra-->
-                       
-                       
-                       <div class="amostra">
-                          <img src="imagens/um-caso-de-engraxate.jpg" class="imagem"/> 
-                          <h2>Um caso de Engraxate</h2>
-                          <div class="texto">
-                          <span>Era um casal feliz, mas ela passou a ter motivos para desconfiar. 
-    Sabia dos gastos, o que entrava e saía, 
-    mas ao perguntar sobre uma certa demora dele após o trabalho e um gasto de dinheiro,
-     ele afirmava que  havia engraxado os sapatos.
-                    </span></div>
-                      <a href="um-caso-de-engraxate.php"><button>Ler Crônica</button></a>
-                       </div><!--fim da amostra-->
                       
 <!--div class="amostra">
 <a href="pagina2.php">Outras...</a>
@@ -139,6 +130,7 @@
                         <nav>
                        
     <!--<ul><a href=""></a></ul>-->
+    <ul><a href="um-caso-de-engraxate.php">Um caso de Engraxate</a></ul>
     <ul><a href="as-cronicas.php">As Crônicas</a></ul>
     <ul><a href="garotos-machoes.php">Garotos Machões</a></ul>
     <ul><a href="visoes-odontologicas.php">Visões Odontológicas</a></ul>

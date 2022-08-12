@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"content="">
+
+    <meta name="description"content="Alguns dias atrás tive um susto quando vi um comunicado de falecimento no facebook.
+    Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeiro de Abril, mesmo sendo início de Agosto. ">
         <meta property="og:site_name" content="Vacilou, virou Crônica! | O que vacila, vira Crônica!" />
     <meta property="og:url" content="https://vacilouviroucronica.com/vendedor-de-cacarecos.php" />
     <meta name="robots" content="index,follow">
