@@ -131,9 +131,9 @@ Não acreditei, havia algo de errado, pensei que era alguma pegadinha de primeir
 <ul>
 <a rel="dofollow" href="a-gangue-da-telha.php"> ⬅ A Gangue da Telha</a>
     </ul>
-    <!--ul>
-    <a rel="dofollow" href="lorem-ipsun.php"> Lorem ipsun ➡ </a>
-  </ul-->
+    <ul>
+    <a rel="dofollow" href="fim-de-tarde.php"> Fim de Tarde ➡ </a>
+  </ul>
 </nav>
 </section>
 <?php
